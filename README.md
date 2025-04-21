@@ -1,7 +1,7 @@
   <a href="https://jawadahmed.netlify.app/">
     <img
       alt="Jawad Ahmed"
-      src="_Blue & White Modern Technology Linkedln Banner.png"
+      src="Jawad Ahmed.md/_Blue & White Modern Technology Linkedln Banner.png"
       width="100%"
     />
   </a>
@@ -9,10 +9,10 @@
 <br/>
 <img src=https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge)](https://jawadahmed.netlify.app)>
 <span>
-<a href="https://www.linkedin.com/in/jawad-ahmed-b0b163350/" target="_blank"><img alt="LinkedIn" align="right" width="40" src="./assets/linkedin.svg" /></a>
-<a href="https://x.com/jawaday_22" target="_blank"><img alt="X/Twitter" align="right" width="40" src="./assets/twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/jawad-ahmed-b0b163350/" target="_blank"><img alt="LinkedIn" align="right" width="40" src="Jawad Ahmed.md/assets/linkedin.svg" /></a>
+<a href="https://x.com/jawaday_22" target="_blank"><img alt="X/Twitter" align="right" width="40" src="Jawad Ahmed.md/assets/twitter.svg" /></a>
 &#8287;&#8287;
-<a href="https://github.com/Jawadahmed2k5" target="_blank"><img alt="Github" align="right" width="40" src="./assets/github.svg" /></a>
+<a href="https://github.com/Jawadahmed2k5" target="_blank"><img alt="Github" align="right" width="40" src="Jawad Ahmed.md/assets/github.svg" /></a>
 </span>
 
 <!-- <h2>Hi 👋, my name is Aayush Bharti</h2> -->
