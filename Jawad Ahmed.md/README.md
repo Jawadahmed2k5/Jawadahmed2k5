@@ -7,7 +7,7 @@
   </a>
 
 <br/>
-[![Visits Badge](https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge)](https://jawadahmed.netlify.app)
+<img src=https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge)](https://jawadahmed.netlify.app)>
 <span>
 <a href="https://www.linkedin.com/in/jawad-ahmed-b0b163350/" target="_blank"><img alt="LinkedIn" align="right" width="40" src="./assets/linkedin.svg" /></a>
 <a href="https://x.com/jawaday_22" target="_blank"><img alt="X/Twitter" align="right" width="40" src="./assets/twitter.svg" /></a>
@@ -38,7 +38,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <p align="left">
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,pnpm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,mysql,jest,postman,vscode,webstorm,vercel,vite,bash,linux,md,cloudflare,java,c,py,docker)](https://jawadahmed.netlify.app)
+<img src=https://skillicons.dev/icons
+  i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,pnpm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,mysql,jest,postman,vscode,webstorm,vercel,vite,bash,linux,md,cloudflare,java,c,py,docker)](https://jawadahmed.netlify.app>
 
   <!-- jest -->
 </p>
