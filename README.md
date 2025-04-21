@@ -10,13 +10,13 @@
 <img src=https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge)](https://jawadahmed.netlify.app)>
 <span>
 <a href="https://www.linkedin.com/in/jawad-ahmed-b0b163350/" target="_blank"><img alt="LinkedIn" align="right" width="40" src="Jawad Ahmed.md/assets/linkedin.svg" /></a>
-<a href="https://x.com/jawaday_22" target="_blank"><img alt="X/Twitter" align="right" width="40" src="Jawad Ahmed.md/assets/twitter.svg" /></a>
+<a href="https://x.com/jawaday_22" target="_blank"><img alt="X/Twitter" align="right" width="40" src="Jawad Ahmed,md/assets/twitter.svg" /></a>
 &#8287;&#8287;
 <a href="https://github.com/Jawadahmed2k5" target="_blank"><img alt="Github" align="right" width="40" src="Jawad Ahmed.md/assets/github.svg" /></a>
 </span>
 
-<!-- <h2>Hi 👋, my name is Aayush Bharti</h2> -->
-<img src="Jawad Ahmed.md/skills.png"
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<a href="https://jawadahmed.netlify.app/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
 <h3>A Full Stack Engineer</h3>
 
 - 🔭 I'm currently working on [https://jawadahmed.netlify.app/](https://jawadahmed.netlify.app/)
@@ -37,8 +37,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <p align="left">
-<img src="Jawad Ahmed.md/skills.png">
-</p>
+<img src ="Jawad Ahmed.md/skills.png
 
   <!-- jest -->
 </p>
