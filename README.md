@@ -2,7 +2,7 @@
 <a href="https://github.com/Jawadahmed2k5">
   <img
     alt="Jawad Ahmed — Game Developer"
-    src="https://www.linkedin.com/in/jawad-ahmed-b0b163350/overlay/background-photo/.png"
+    src="https://www.linkedin.com/in/jawad-ahmed-b0b163350/overlay/background-photo/"
     width="100%"
   />
 </a>
