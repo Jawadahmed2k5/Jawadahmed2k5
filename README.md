@@ -14,6 +14,8 @@
   <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
+  
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="40"/>
   <a href="https://twitter.com/YOUR-LINK" target="_blank">
    
   </a>
