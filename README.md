@@ -36,8 +36,6 @@
 
 <br/>
 
-<!-- Profile Image -->
-<img align="right" width="260" src="https://github.com/account" />
 
 # 👋 Hi, I’m **Jawad Ahmed**
 ### 🎮 Professional Game Developer | Unity Specialist | Gameplay Engineer
