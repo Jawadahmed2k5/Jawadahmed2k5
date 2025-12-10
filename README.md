@@ -11,17 +11,27 @@
 
 <!-- Social Icons -->
 <p align="right">
-  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+  <a href="https://www.linkedin.com/in/jawad-ahmed-b0b163350/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
   
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="40"/>
-  <a href="https://twitter.com/YOUR-LINK" target="_blank">
+  <a href="https://x.com/jawaday_22" target="_blank">
    
   </a>
   <a href="https://github.com/Jawadahmed2k5" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>  
   </a>
+
+  <a href="https://www.instagram.com/jellicious_jd/" target="_blank">
+ <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40" />  
+  </a>
+
+  <a href="https://www.facebook.com/jawad.ahmed.851879/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height="28"/>
+</a>
+  
+
 </p>
 
 <br/>
@@ -53,11 +63,12 @@ My core mission is to deliver **high-impact gaming experiences** that blend crea
 
 # 🛠 **Tech Stack**
 <p>
-  <img src="https://raw.githubusercontent.com/Jawadahmed2k5/Jawadahmed2k5/main/stack/unity.png" height="40"/>
-  <img src="https://raw.githubusercontent.com/Jawadahmed2k5/Jawadahmed2k5/main/stack/csharp.png" height="40"/>
-  <img src="https://raw.githubusercontent.com/Jawadahmed2k5/Jawadahmed2k5/main/stack/blender.png" height="40"/>
-  <img src="https://raw.githubusercontent.com/Jawadahmed2k5/Jawadahmed2k5/main/stack/git.png" height="40"/>
-  <img src="https://raw.githubusercontent.com/Jawadahmed2k5/Jawadahmed2k5/main/stack/admob.png" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45"/>
+
 </p>
 
 ---
