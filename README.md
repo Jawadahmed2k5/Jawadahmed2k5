@@ -15,10 +15,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
   <a href="https://twitter.com/YOUR-LINK" target="_blank">
-    <img src="https://raw.githubusercontent.com/Jawadahmed2k5/Jawadahmed2k5/main/icons/x.png" width="40" />
+   
   </a>
   <a href="https://github.com/Jawadahmed2k5" target="_blank">
-    <img src="https://raw.githubusercontent.com/Jawadahmed2k5/Jawadahmed2k5/main/icons/github.png" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>  
   </a>
 </p>
 
@@ -78,6 +78,7 @@ Grid-based logic, level sequences, UX-driven transitions, and performance-focuse
 A dynamic strategy-driven combat experience blending fast-paced mechanics with smart AI behaviors.  
 Built with optimized physics, modular enemy systems, and scalable gameplay loops.  
 🔗 Play: https://play.google.com/store/apps/details?id=com.darkstarstudios.tactigons
+</a>
 🔗 App Store: https://apps.apple.com/pk/app/tactigons/id6753956533
 
 ### 🟩 **TapDash — Hyper Casual Tap-to-Dash Runner**
@@ -89,6 +90,7 @@ Designed for ultra-smooth input response, light memory usage, and low-end device
 A dynamic aquatic runner featuring fluid movement systems, obstacle sequencing, lane-based swimming mechanics, and a polished reward loop.  
 Optimized for mobile deployment with efficient physics simulation and minimal draw calls.  
 🔗 Play: https://play.google.com/store/apps/details?id=com.darkstarstudios.searush
+</a>
 🔗 App Store: https://apps.apple.com/pk/app/sea-rush-koi-flow/id6755971619
 
 ---
