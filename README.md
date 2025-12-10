@@ -101,11 +101,11 @@ Optimized for mobile deployment with efficient physics simulation and minimal dr
 
 ---
 
-# 🤝 Work With Me
+# 🤝 For Work
 I bring a **strategic problem-solving mindset** and a **production-first engineering style** to every project.
 
-📧 **Email:** your-email  
-🌐 **Portfolio:** your-website  
+📧 **Email:** officialjawad25@gmail.com  
+🌐 **Portfolio:** jawadahmed.netlify.app  
 🕹️ Let’s build something extraordinary.
 
 ---
