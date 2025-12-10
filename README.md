@@ -12,7 +12,7 @@
 <!-- Social Icons -->
 <p align="right">
   <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
-    <img src="https:https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
   <a href="https://twitter.com/YOUR-LINK" target="_blank">
     <img src="https://raw.githubusercontent.com/Jawadahmed2k5/Jawadahmed2k5/main/icons/x.png" width="40" />
