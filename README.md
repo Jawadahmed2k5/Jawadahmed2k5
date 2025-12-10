@@ -85,6 +85,11 @@ Fast-reflex, tap-based directional dashing with progressive difficulty curves an
 Designed for ultra-smooth input response, light memory usage, and low-end device optimization.  
 🔗 Play: https://play.google.com/store/apps/details?id=com.DarkStarStudios.TapDash
 
+### 🌊 **SeaRush — Underwater Adventure Runner**
+A dynamic aquatic runner featuring fluid movement systems, obstacle sequencing, lane-based swimming mechanics, and a polished reward loop.  
+Optimized for mobile deployment with efficient physics simulation and minimal draw calls.  
+🔗 Play: https://play.google.com/store/apps/details?id=com.darkstarstudios.searush
+🔗 App Store: https://apps.apple.com/pk/app/sea-rush-koi-flow/id6755971619
 
 ---
 
