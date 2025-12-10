@@ -64,11 +64,11 @@ My core mission is to deliver **high-impact gaming experiences** that blend crea
 
 ### 🚗 **Road Survivor — Endless Driving Game**
 High-speed obstacle dodging, dynamic track generation, responsive controls, and optimized physics.  
-🔗 Play: https://your-link-here
+🔗 Play: https://play.google.com/store/apps/details?id=com.darkstarstudios.roadsurvivor
 
 ### 🏍️ **Rush Rider — High-Speed Bike Runner**
 Procedurally generated lanes, enemy chase logic, fuel systems, speed meters, and polished UI.  
-🔗 Play: https://your-link-here
+🔗 Play: https://play.google.com/store/apps/details?id=com.darkstarstudios.rushrider
 
 ### 📦 **Block Fit — Hyper Casual Puzzle**
 Grid-based logic, level sequences, UX-driven transitions, and performance-focused engineering.  
@@ -77,12 +77,13 @@ Grid-based logic, level sequences, UX-driven transitions, and performance-focuse
 ### ⚔️ **Tactigons — Strategic Action Combat**
 A dynamic strategy-driven combat experience blending fast-paced mechanics with smart AI behaviors.  
 Built with optimized physics, modular enemy systems, and scalable gameplay loops.  
-🔗 Play: **https://your-tactigons-link-here**
+🔗 Play: https://play.google.com/store/apps/details?id=com.darkstarstudios.tactigons
+🔗 App Store: https://apps.apple.com/pk/app/tactigons/id6753956533
 
 ### 🟩 **TapDash — Hyper Casual Tap-to-Dash Runner**
 Fast-reflex, tap-based directional dashing with progressive difficulty curves and clean mobile polish.  
 Designed for ultra-smooth input response, light memory usage, and low-end device optimization.  
-🔗 Play: **https://your-tapdash-link-here**
+🔗 Play: https://play.google.com/store/apps/details?id=com.DarkStarStudios.TapDash
 
 
 ---
