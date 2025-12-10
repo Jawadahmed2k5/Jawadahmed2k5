@@ -37,7 +37,7 @@
 <br/>
 
 <!-- Profile Image -->
-<img align="right" width="260" src="https://raw.githubusercontent.com/Jawadahmed2k5/Jawadahmed2k5/main/assets/profile.png" />
+<img align="right" width="260" src="https://github.com/account" />
 
 # 👋 Hi, I’m **Jawad Ahmed**
 ### 🎮 Professional Game Developer | Unity Specialist | Gameplay Engineer
