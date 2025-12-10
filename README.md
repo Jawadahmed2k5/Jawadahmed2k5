@@ -28,7 +28,7 @@
   </a>
 
   <a href="https://www.facebook.com/jawad.ahmed.851879/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height="28"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="40" />
 </a>
   
 
